@@ -11,5 +11,5 @@
 
 ~~나중에 음악도 넣으면 좋을듯📀~~
 
-📌[결과물]
+📌[결과물](https://taipingceoreom-boineun-peiji-typing-effect-page.aeuj.repl.co/)
 📌[참고영상](https://www.youtube.com/watch?v=e56H5n1SvEs&list=PL-eeIUD86IjSyxTbGT7wY3Hie_HA5bKvg)
