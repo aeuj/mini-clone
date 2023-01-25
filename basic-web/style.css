@@ -69,3 +69,10 @@
 .hero a:hover{
   background-color: darkslategray;
 }
+footer{
+  position: absolute;
+  bottom: 0;
+}
+audio{
+  width: 200px;
+}
